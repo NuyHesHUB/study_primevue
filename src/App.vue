@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>PrimeVue 연습</h1>
+    <h1>PrimeVue</h1>
     <div class="card">
         <TreeTable :value="nodes">
             <Column field="name" header="Name" expander></Column>
